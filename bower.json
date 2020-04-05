@@ -1,0 +1,21 @@
+{
+  "name": "siteBraz",
+  "homepage": "https://github.com/thiagofreitas360/sitebraz",
+  "authors": [
+    "Thiago Freitas <thiagofreitas360@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
